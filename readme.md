@@ -4,9 +4,7 @@ Introduction
   
 Staying connected in today's fast-paced world is essential, and navigating your mobile plans should be hassle-free. Enter [My Prepaid Center](https://myprepaidcenter.info/), your one-stop solution for managing prepaid mobile plans with security and ease. With the digital era upon us, MyPrepaidCenter stands out by offering refined solutions that streamline communication needs for individuals and businesses alike. Approach mobile communication with confidence, knowing you have a resource that simplifies every step—from plan activation to diligent security measures.
 
-
-![Images](https://myprepaidcenter.info/wp-content/uploads/2019/02/zelle-expert1.jpg)
- 
+![image](https://github.com/billynnsoftware/my-prepaid-center/assets/169455721/cf6b5fdb-ea36-489b-90de-2a0990d80566)
 
 Efficiency in Mobile Communication Management
 ---------------------------------------------
